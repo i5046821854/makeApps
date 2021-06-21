@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">firstApp</string>
+    <string name="helloWorld">안녕하세요</string>
+    <string name="click">클릭</string>
+</resources>
